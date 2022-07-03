@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marcia93
+- 👀 I’m interested in Data Science & Biotechnology
+- 🌱 I’m currently learning the basics of programming
+- 📫 How to reach me marciacouto93@gmail.com

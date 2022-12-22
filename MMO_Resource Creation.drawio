@@ -1,25 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T17:02:04.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VPQYvoI1uptP-SnxtUzh" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T17:06:30.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iX8cXq4jU_izec8LoUPZ" version="20.7.4" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w6ef0og6zVdC-_Kzne1W-29" value="Actual Bill Code&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="900" y="869" width="300" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="(Formula)&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;Calculated&lt;br style=&quot;font-size: 12px;&quot;&gt;based on Career Level Resource&lt;/span&gt;" placeholders="1" name="Variable" id="w6ef0og6zVdC-_Kzne1W-30">
-          <mxCell style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=12;fontColor=#333333;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
-            <mxGeometry x="900" y="895" width="200" height="44" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="w6ef0og6zVdC-_Kzne1W-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Actual &lt;font style=&quot;font-size: 14px;&quot;&gt;Cost&lt;/font&gt;&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="900" y="948" width="300" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="(Formula)&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;Calculated&lt;br style=&quot;font-size: 12px;&quot;&gt;based on Career Level Resource&lt;/span&gt;" placeholders="1" name="Variable" id="w6ef0og6zVdC-_Kzne1W-38">
-          <mxCell style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=12;fontColor=#333333;fontStyle=0;fontFamily=Verdana;" parent="1" vertex="1">
-            <mxGeometry x="900" y="968" width="200" height="44" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="VZRTfVRfsdjERJp8t25M-141" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="100" width="600" height="640" as="geometry" />
         </mxCell>
@@ -136,14 +120,6 @@
         <mxCell id="VZRTfVRfsdjERJp8t25M-152" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;sketch=0;fillStyle=auto;strokeWidth=1;fontFamily=Verdana;fontSize=31;fontColor=#FFFFFF;" vertex="1" parent="VZRTfVRfsdjERJp8t25M-141">
           <mxGeometry x="510" y="13" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VZRTfVRfsdjERJp8t25M-142" value="Status" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="900" y="780" width="300" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;color: black;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;The resource will be created in the status &quot;Active&quot; if the resource start date is less than or equal to creation date. Otherwise, the resource will be created in the status &quot;Planned&quot;.&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;Active;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;Planned; Inactive; Canceled&lt;/span&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="VZRTfVRfsdjERJp8t25M-143">
-          <mxCell style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;strokeWidth=1;fontSize=12;fontColor=#333333;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
-            <mxGeometry x="900" y="802" width="560" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="VZRTfVRfsdjERJp8t25M-153" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="880" width="600" height="1280" as="geometry" />
         </mxCell>
@@ -629,6 +605,12 @@
         </mxCell>
         <mxCell id="VZRTfVRfsdjERJp8t25M-559" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#CCCCCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.writing_pencil;labelBackgroundColor=none;fillStyle=auto;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=none;noLabel=1;" vertex="1" parent="VZRTfVRfsdjERJp8t25M-556">
           <mxGeometry x="166" y="5" width="19" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VZRTfVRfsdjERJp8t25M-583" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;The resource will be created in the status &quot;Active&quot; if the resource start date is less than or equal to creation date.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Otherwise, the resource will be created in the status &quot;Planned&quot;.&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;br&gt;TRIGGER:&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;Resource Creation&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;shadow=1;labelBackgroundColor=none;sketch=0;fillStyle=auto;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#CCCCCC;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="VZRTfVRfsdjERJp8t25M-584" value="" style="triangle;html=1;whiteSpace=wrap;shadow=1;labelBackgroundColor=none;sketch=0;fillStyle=auto;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#CCCCCC;fillColor=#CCCCCC;" vertex="1" parent="VZRTfVRfsdjERJp8t25M-583">
+          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
